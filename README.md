@@ -2,4 +2,8 @@
 
 These notes are from the CoderCo module
 
-Follow my GitHub page!!
+Follow my GitHub page !!
+
+## Merge Conflicts 
+
+## Squash Commits 
