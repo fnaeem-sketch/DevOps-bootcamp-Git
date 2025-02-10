@@ -7,3 +7,6 @@ Follow my GitHub page !!
 ## Merge Conflicts 
 
 ## Squash Commits 
+
+## Git Ignore file 
+
